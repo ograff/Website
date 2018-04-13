@@ -1,6 +1,7 @@
 baseURL = "https://www.olivergraff.com/"
 languageCode = "en-us"
 title = "Oliver Graff"
+googleAnalytics = "UA-117484644-1"
 theme = "coder"
 
 [params] # theme parameters
@@ -32,3 +33,5 @@ theme = "coder"
     name = "About"
     weight = 2
     url = "/about/"
+
+canonifyurls = true
