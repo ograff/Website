@@ -3,12 +3,18 @@ languageCode = "en-us"
 title = "Oliver Graff"
 googleAnalytics = "UA-117484644-1"
 theme = "coder"
+enableEmoji = true
+
 
 [params] # theme parameters
     author = "Oliver Graff" # author's name
     info = "Software Engineer" # author's job title or info
     description = "Oliver Graff's info and random tech projects" # site description
     keywords = "blog,developer,personal,projects,embedded systems" # site keywords
+    avatarURL="profile.png"
+    hideCredits=true
+    since=2018
+    colorScheme="dark"
 
 # Social links
 [[params.social]]
@@ -25,10 +31,10 @@ theme = "coder"
     url = "https://www.linkedin.com/in/oliver-graff-4386511a/"
 
 # Menu links
-[[menu.main]]
-    name = "Blog"
-    weight = 1
-    url  = "/posts/"
+#[[menu.main]]
+#    name = "Blog"
+#    weight = 1
+#    url  = "/posts/"
 [[menu.main]]
     name = "About"
     weight = 2

@@ -1,6 +1,7 @@
 ---
 title: "Why a Blog"
 date: 2018-04-13T09:03:19-04:00
+draft: true
 Categories:
   - Meta
 Tags:
