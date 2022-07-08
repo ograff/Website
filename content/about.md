@@ -11,4 +11,4 @@ projects, flying (as both a pilot and passenger), skiing, and doing home improve
 Oliver wants to get more involved in contributing to
 open source projects, and learning about pentesting / security.
 Oliver got his Private Pilot Certificate in April of 2016,
-and plans to get back in the left seat sometime soon&trade;.
+and recently got his Instrument Rating in June of 2022!
